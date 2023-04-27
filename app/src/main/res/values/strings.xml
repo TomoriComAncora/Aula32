@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppNoticias</string>
+    <string name="txt_edit_img">Aprenda sobre edição de imagens</string>
+    <string name="data">27/04/2023</string>
+    <string name="texto">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Maecenas sodales, justo eu pellentesque fringilla, urna diam gravida urna,
+        id placerat odio libero sit amet nisi. Integer neque ex, auctor nec justo ut,
+        luctus imperdiet dolor. Etiam maximus malesuada suscipit.
+        Integer euismod eros pellentesque libero euismod, quis tempor mi auctor.
+        Maecenas tincidunt egestas turpis. Aenean dictum fermentum dictum.
+        Morbi nisi velit, vestibulum at euismod in, mattis nec leo.
+        Praesent ac purus vehicula, fringilla ante a, suscipit magna.
+        Nulla sed velit quis odio euismod pretium.
+        Morbi dignissim orci mi, dignissim rhoncus magna luctus in.
+        Cras tristique et diam eu auctor.</string>
+    <string name="bt_prox">Próximo</string>
+    <string name="bt_ant">Anterior</string>
+    <string name="autor">Lucas</string>
+</resources>
